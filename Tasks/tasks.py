@@ -1,4 +1,3 @@
-# tasks/tasks.py
 from celery import shared_task
 from .models import Task
 from django.utils import timezone
